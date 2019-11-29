@@ -1,0 +1,14 @@
+{
+  "name": "with-invalid-dependency",
+  "version": "1.0.0",
+  "description": "an empty package with an invalid dependency",
+  "contributors": [
+    "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+    "Andrew Monks <a@monks.co>"
+  ],
+  "dependencies": {
+    "mit-licensed": "^2.0.0"
+  },
+  "repository": "amonks/with-invalid-dependency.js",
+  "license": "MIT"
+}
